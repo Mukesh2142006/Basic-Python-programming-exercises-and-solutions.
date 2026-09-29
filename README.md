@@ -418,15 +418,8 @@ for n in range(a, b + 1):
 
 **Output:**
 
-```text
-23
-29
-31
-37
-41
-43
-47
-```
+<img width="560" height="321" alt="image" src="https://github.com/user-attachments/assets/2964533d-6901-40cd-8134-4385dfa7def2" />
+
 
 ---
 
@@ -457,10 +450,10 @@ print(factorial(n))
 ```
 
 **Output:**
+<img width="452" height="399" alt="image" src="https://github.com/user-attachments/assets/5b097169-a6bc-40b6-9c76-536345d8592f" />
 
-```text
-120
-```
+
+
 
 ---
 
@@ -488,12 +481,8 @@ for n in numbers:
 
 **Output:**
 
-```text
-4
-9
-16
-25
-```
+<img width="510" height="241" alt="image" src="https://github.com/user-attachments/assets/1e2476ad-1bf2-4970-8a20-27f66e530c20" />
+
 
 ---
 
@@ -521,9 +510,8 @@ print(numbers[-2])
 
 **Output:**
 
-```text
-15
-```
+<img width="544" height="323" alt="image" src="https://github.com/user-attachments/assets/c4b27511-d132-4e04-ab4b-ab846eb9b747" />
+
 
 ---
 
@@ -535,7 +523,7 @@ Count the frequency of each character in a string.
 **Example Input:**
 
 ```text
-hello
+banana
 ```
 
 **Code:**
@@ -553,9 +541,8 @@ print(freq)
 
 **Output:**
 
-```text
-{'h': 1, 'e': 1, 'l': 2, 'o': 1}
-```
+<img width="551" height="389" alt="image" src="https://github.com/user-attachments/assets/4072528f-6b80-4ccb-958b-d6303f54bccf" />
+
 
 ---
 
@@ -584,9 +571,8 @@ print(area)
 
 **Output:**
 
-```text
-78.53981633974483
-```
+<img width="615" height="206" alt="image" src="https://github.com/user-attachments/assets/49937cf3-4b2e-4202-a5d5-61763bc22d2c" />
+
 
 ---
 
@@ -598,7 +584,7 @@ Reverse a string without using the built-in `reverse()` function.
 **Example Input:**
 
 ```text
-hello
+python
 ```
 
 **Code:**
@@ -616,9 +602,8 @@ print(result)
 
 **Output:**
 
-```text
-olleh
-```
+<img width="550" height="269" alt="image" src="https://github.com/user-attachments/assets/4fe84d35-a1c5-4441-952d-085acdcf047e" />
+
 
 ---
 
@@ -649,9 +634,8 @@ print(result)
 
 **Output:**
 
-```text
-[1, 2, 3, 4, 5]
-```
+<img width="610" height="310" alt="image" src="https://github.com/user-attachments/assets/830a1c32-92a8-4241-9533-0b7ab1ab15ca" />
+
 
 ---
 
@@ -673,9 +657,8 @@ print(d1)
 
 **Output:**
 
-```text
-{'a': 10, 'b': 20, 'c': 30, 'd': 40}
-```
+<img width="578" height="332" alt="image" src="https://github.com/user-attachments/assets/27477010-a010-4bb9-b9f4-6a51442e7793" />
+
 
 ---
 
@@ -708,9 +691,8 @@ for i in range(n):
 
 **Output:**
 
-```text
-0 1 1 2 3 5 8
-```
+<img width="588" height="378" alt="image" src="https://github.com/user-attachments/assets/103fa28b-02fe-425b-ab5b-39f5560a3a3c" />
+
 
 
 
@@ -737,13 +719,8 @@ print("Data Type:", marks.dtype)
 
 **Output:**
 
-```text
-Array: [78 65 89 56 92]
-Dimension: 1
-Shape: (5,)
-Size: 5
-Data Type: int64
-```
+<img width="803" height="409" alt="image" src="https://github.com/user-attachments/assets/d5ece809-1609-4a4a-98c9-7c2749eca6b7" />
+
 
 ---
 
@@ -767,12 +744,8 @@ print("Last two students:", marks[-2:])
 
 **Output:**
 
-```text
-First student: 72
-Third student: 64
-First three students: [72 85 64]
-Last two students: [90 76]
-```
+<img width="804" height="343" alt="image" src="https://github.com/user-attachments/assets/7f2fa810-fc3b-4950-aa11-11341874b1d6" />
+
 
 ---
 
@@ -801,13 +774,8 @@ print(matrix)
 
 **Output:**
 
-```text
-[[78 85 90]
- [65 72 80]
- [88 91 84]
- [56 62 70]
- [95 89 92]]
-```
+<img width="787" height="363" alt="image" src="https://github.com/user-attachments/assets/dc40d241-1988-4112-88e7-79f17600286a" />
+
 
 ---
 
@@ -833,11 +801,8 @@ print("Final Marks:", final)
 
 **Output:**
 
-```text
-Internal Marks: [25 28 24 27 30]
-External Marks: [60 55 65 58 62]
-Final Marks: [85 83 89 85 92]
-```
+<img width="811" height="353" alt="image" src="https://github.com/user-attachments/assets/b91751ac-175f-44df-a6dd-91ca9b458b01" />
+
 
 ---
 
@@ -861,10 +826,8 @@ print("Students with 50 or above:", passed)
 
 **Output:**
 
-```text
-Marks: [45 78 56 32 91]
-Students with 50 or above: [78 56 91]
-```
+<img width="810" height="382" alt="image" src="https://github.com/user-attachments/assets/041e2e9c-c105-4108-89b4-48d35bb4d8d6" />
+
 
 ---
 
@@ -893,9 +856,8 @@ print("Average Marks:", average)
 
 **Output:**
 
-```text
-Average Marks: [84.33333333 72.33333333 87.66666667 62.66666667 92.        ]
-```
+<img width="826" height="422" alt="image" src="https://github.com/user-attachments/assets/c2031cb2-80ed-4ce6-847c-45bbd2ae0e5b" />
+
 
 ---
 
@@ -920,13 +882,8 @@ print("Standard Deviation:", np.std(marks))
 
 **Output:**
 
-```text
-Total: 372
-Average: 74.4
-Highest: 91
-Lowest: 58
-Standard Deviation: 11.46472851837321
-```
+<img width="837" height="420" alt="image" src="https://github.com/user-attachments/assets/9821b2bc-ea89-4db3-9a16-729b0afa7318" />
+
 
 ---
 
@@ -955,9 +912,8 @@ print("Subject-wise Total:", subject_total)
 
 **Output:**
 
-```text
-Subject-wise Total: [382 399 416]
-```
+<img width="826" height="429" alt="image" src="https://github.com/user-attachments/assets/a51fb6ac-eb3b-4c15-b38b-61862ff706e9" />
+
 
 ---
 
@@ -986,9 +942,8 @@ print("Student-wise Total:", student_total)
 
 **Output:**
 
-```text
-Student-wise Total: [253 217 263 188 276]
-```
+<img width="788" height="431" alt="image" src="https://github.com/user-attachments/assets/041ed90c-0d17-4cc8-93ac-f2a91eb5d04e" />
+
 
 ---
 
@@ -1013,10 +968,8 @@ print("Student Ranking:", ranking + 1)
 
 **Output:**
 
-```text
-Sorted Marks: [219 245 256 278 290]
-Student Ranking: [4 2 5 1 3]
-```
+<img width="809" height="438" alt="image" src="https://github.com/user-attachments/assets/c76c1b98-7fa2-4f0b-9973-4a9637ced780" />
+
 
 ---
 
@@ -1039,11 +992,8 @@ print("Unique Marks:", unique_marks)
 ```
 
 **Output:**
+<img width="807" height="343" alt="image" src="https://github.com/user-attachments/assets/c4ebce13-06f6-4c5d-a38c-d18676bdaf5c" />
 
-```text
-Marks: [85 92 85 76 92]
-Unique Marks: [76 85 92]
-```
 
 ---
 
@@ -1067,10 +1017,8 @@ print("Average:", average)
 
 **Output:**
 
-```text
-Marks: [78. 85. nan 92. 67.]
-Average: 80.5
-```
+<img width="783" height="332" alt="image" src="https://github.com/user-attachments/assets/04a8a2a6-dbd9-45b8-abbc-1b26041c96de" />
+
 
 ---
 
@@ -1118,10 +1066,8 @@ print("Grades:", grades)
 
 **Output:**
 
-```text
-Marks: [95 82 74 61 45]
-Grades: ['A' 'B' 'C' 'D' 'F']
-```
+<img width="777" height="463" alt="image" src="https://github.com/user-attachments/assets/efef1864-d650-406f-8227-9ede545c6385" />
+
 
 ---
 
@@ -1148,13 +1094,8 @@ print("Lowest:", np.min(marks))
 
 **Output:**
 
-```text
-Generated Marks: [ 9 15 64 28 89]
-Total: 205
-Average: 41.0
-Highest: 89
-Lowest: 9
-```
+<img width="774" height="366" alt="image" src="https://github.com/user-attachments/assets/9550466f-51d0-4bb5-a15f-f1178cf3ffb1" />
+
 
 ---
 
@@ -1196,20 +1137,8 @@ print("Students Above Class Average:", above_average)
 
 **Output:**
 
-```text
-Total Marks: [253 217 263 188 276]
+<img width="848" height="459" alt="image" src="https://github.com/user-attachments/assets/03306038-652b-49b8-9171-9db50dd67abd" />
 
-Average Marks:
-[84.33333333 72.33333333 87.66666667 62.66666667 92.        ]
-
-Highest Marks: [90 80 91 70 95]
-
-Lowest Marks: [78 65 84 56 89]
-
-Class Average: 79.8
-
-Students Above Class Average: [1 3 5]
-```
 
 
 ## PYTHON_FUNCTIONS_CODING
@@ -1256,9 +1185,9 @@ print(calculate(a, b, operation))
 
 **Output:**
 
-```text
-15
-```
+<img width="439" height="531" alt="image" src="https://github.com/user-attachments/assets/e4dab559-8c0b-426f-b903-c8e11632bd12" />
+
+
 
 ---
 
@@ -1278,23 +1207,17 @@ Write a function `sum_numbers(*args)` that accepts any number of arguments and r
 ```python
 def sum_numbers(*args):
     total = 0
-
-    for n in args:
-        total += n
-
+    for num in args:
+        total += num
     return total
-
-
-numbers = list(map(int, input().split()))
-
-print(sum_numbers(*numbers))
+print(sum_numbers(10, 20, 30))
 ```
 
 **Output:**
 
-```text
-100
-```
+<img width="469" height="263" alt="image" src="https://github.com/user-attachments/assets/f4b752bc-7869-48e7-806f-5fcad29350f7" />
+
+
 
 ---
 
@@ -1309,24 +1232,20 @@ Write a function `employee(**args)` that accepts employee information such as na
 def employee(**args):
     for key, value in args.items():
         print(key, ":", value)
-
-
 employee(
-    name="Gayathri",
+    name="Mukesh ",
     ID=101,
-    department="Testing",
-    salary=50000
+    department="AIDS",
+    salary=30000
 )
 ```
 
 **Output:**
 
-```text
-name : Gayathri
-ID : 101
-department : Testing
-salary : 50000
-```
+
+<img width="492" height="454" alt="image" src="https://github.com/user-attachments/assets/6439a63b-7828-47c9-a34b-1d8c953f03a5" />
+
+
 
 ---
 
@@ -1361,9 +1280,9 @@ print(remove_duplicates(numbers))
 
 **Output:**
 
-```text
-[1, 2, 3, 4, 5]
-```
+<img width="532" height="332" alt="image" src="https://github.com/user-attachments/assets/cbaea014-7543-4788-a69a-acd85e7e54f2" />
+
+
 
 ---
 
@@ -1390,6 +1309,5 @@ print(result)
 
 **Output:**
 
-```text
-[(4, 1), (2, 3), (1, 5)]
-```
+<img width="605" height="186" alt="image" src="https://github.com/user-attachments/assets/c3c006f2-c478-4dd2-a7e7-6bd72ea13a2d" />
+
